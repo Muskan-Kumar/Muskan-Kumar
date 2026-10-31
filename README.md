@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Muskan Kumar
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&width=800&lines=AI%2FML+Engineering+Student;Generative+AI+%7C+Agentic+AI;Building+RAG+%26+Multi-Agent+Systems;Python+%7C+Machine+Learning+%7C+FastAPI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=AI%2FML+Engineer+in+the+Making;Building+Intelligent+AI+Applications;Generative+AI+%7C+Agentic+AI+%7C+RAG;Multi-Agent+Systems+with+LangGraph;Python+%7C+Machine+Learning+%7C+FastAPI)
 
 🎓 Final-Year B.Tech CSE (AI & ML) Student | Class of 2027  
 🤖 Aspiring AI/ML Engineer | Generative AI | Agentic AI  
@@ -26,9 +26,7 @@ I'm passionate about building practical AI-powered applications using machine le
 
 - **GitHub:** [Muskan-Kumar](https://github.com/Muskan-Kumar)
 - **Email:** [muskanku9525@gmail.com](mailto:muskanku9525@gmail.com)
-- **LinkedIn:** Add your verified LinkedIn profile URL here.
-- **Portfolio:** Add your portfolio URL when available.
-- **LeetCode:** Add your profile URL if you want to showcase it.
+- **LinkedIn:** [Muskan Kumar](https://www.linkedin.com/in/muskan-kumar-9b3870316/)
 
 ---
 
@@ -99,61 +97,6 @@ I'm passionate about building practical AI-powered applications using machine le
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. AgentForge AI — Multi-Agent AI Workspace
-
-**Tech Stack:** Python, FastAPI, LangChain, LangGraph, PostgreSQL, Pinecone
-
-- Developing a multi-agent AI workspace for conversation, coding, research, and document question answering.
-- Designing graph-based workflows with specialized agents, tools, and routing.
-- Implementing RAG with document chunking, embeddings, vector retrieval, and contextual answers.
-- Building backend APIs and persistent conversation capabilities.
-
-🔗 [Explore My Repositories](https://github.com/Muskan-Kumar?tab=repositories)
-
-### 2. Enterprise HR Policy Copilot — Agentic RAG System
-
-**Tech Stack:** Python, FastAPI, LangGraph, Pinecone, Sentence Transformers
-
-- Developing a document-grounded assistant for HR policy questions.
-- Exploring retrieval, evidence evaluation, and source-grounded responses.
-- Structuring agent workflows for traceable and relevant answers.
-
-🔗 [Explore My Repositories](https://github.com/Muskan-Kumar?tab=repositories)
-
-### 3. Network Intrusion Detection System — MLOps Pipeline
-
-**Tech Stack:** Python, Scikit-learn, MLflow, FastAPI, Docker
-
-- Building a machine learning pipeline for network intrusion detection.
-- Working on data preprocessing, model training, and experiment tracking.
-- Developing an API-based inference workflow.
-
-🔗 [View NIDS Repository](https://github.com/Muskan-Kumar/networksecurity)
-
-### 4. TravelMate AI — Multi-Agent Travel Planning Assistant
-
-**Tech Stack:** Python, LangChain, LangGraph, FastAPI, Groq, Tavily, PostgreSQL
-
-- Developing an AI-powered travel planning assistant.
-- Exploring tool-enabled research and agent workflows for itinerary planning.
-- Structuring the application around APIs and persistent data.
-
-🔗 [Explore My Repositories](https://github.com/Muskan-Kumar?tab=repositories)
-
-### 5. AI Website Builder
-
-**Tech Stack:** React, Vite, Node.js, Express.js, Firebase, Generative AI
-
-- Building an AI-assisted application for generating website content and layouts.
-- Connecting a React frontend with a Node.js and Express backend.
-- Exploring authentication and LLM-powered generation.
-
-🔗 [View Website Builder Repository](https://github.com/Muskan-Kumar/Website-Builder)
-
----
-
 ## 🎓 Education
 
 **B.Tech in Computer Science and Engineering (AI & ML)**  
@@ -172,8 +115,6 @@ Shobhit Institute of Engineering & Technology, Meerut
 - Introduction to Generative AI — Google Cloud
 - Introduction to Large Language Models — Google Cloud
 - Generative AI Fundamentals — Google Cloud
-
-> Keep only certifications you have actually completed.
 
 ---
 
@@ -198,10 +139,6 @@ Shobhit Institute of Engineering & Technology, Meerut
 ---
 
 ## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan-Kumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Kumar&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muskan-Kumar&theme=tokyonight&hide_border=true)
 
