@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Muskan Kumar
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=AI%2FML+Engineer+in+the+Making;Building+Intelligent+AI+Applications;Generative+AI+%7C+Agentic+AI+%7C+RAG;Multi-Agent+Systems+with+LangGraph;Python+%7C+Machine+Learning+%7C+FastAPI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&width=800&height=100&lines=AI%2FML+Engineer+in+the+Making;Building+Intelligent+AI+Applications;Generative+AI+%7C+Agentic+AI+%7C+RAG;Multi-Agent+Systems+with+LangGraph;Python+%7C+Machine+Learning+%7C+FastAPI)
 
 🎓 Final-Year B.Tech CSE (AI & ML) Student | Class of 2027  
 🤖 Aspiring AI/ML Engineer | Generative AI | Agentic AI  
